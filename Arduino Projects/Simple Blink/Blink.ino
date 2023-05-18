@@ -1,12 +1,14 @@
+int pin = 13;
+
 void setup()
 {
-    pinMode(13, OUTPUT);
+    pinMode(pin, OUTPUT);
 }
 
 void loop()
 {
-    digitalWrite(13, HIGH);
+    digitalWrite(pin, HIGH);
     delay(1000);
-    digitalWrite(13, LOW);
+    digitalWrite(pin, LOW);
     delay(1000);
 }
