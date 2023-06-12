@@ -1,7 +1,7 @@
 /*************************************************************
 
-  This is a simple demo of sending and receiving some data.
-  Be sure to check out other examples!
+  Hello and welcome to my simple example of the Blynk IOT simple
+  sketch!
  *************************************************************/
 
 /* Fill-in information from Blynk Device Info here */
